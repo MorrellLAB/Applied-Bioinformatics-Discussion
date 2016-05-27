@@ -14,4 +14,4 @@ This discussion mainly focused on reading the book "[Bioinformatics Data Skills]
 
 Chapter 1-2: June 3, 2016 
 
-Discussion leader: Fernanda and Felipe
+Discussion leader: Shawn and Felipe
