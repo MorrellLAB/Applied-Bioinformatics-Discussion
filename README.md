@@ -3,11 +3,12 @@
 This discussion is mainly focusing on reading the book "[Bioinformatics Data Skills](http://www.amazon.com/Bioinformatics-Data-Skills-Reproducible-Research/dp/1449367372)" by Vince Buffalo, but could also integrate discussing some useful tools, like GATK, samtools, Picard, etc. If you are interested in improving your applied bioinformatics skills, please join in us!
 
 ### Meeting Schedule
+
 **Coming event:**
 
-Chapter 3: June 10, 2016 
+Chapter 4: June 17, 2016
 
-Discussion leader: Adam Herman
+Discussion leader: Shanw Goggins and Adam Herman
 
 ===
 
@@ -15,7 +16,13 @@ Discussion leader: Adam Herman
 
 **Where:** Borlaug 213
 
-**Schedule:**
+===
+
+**Past events:**
+
+Chapter 3: June 10, 2016
+
+Discussion leader: Adam Herman
 
 Chapter 1-2: June 3, 2016 
 
