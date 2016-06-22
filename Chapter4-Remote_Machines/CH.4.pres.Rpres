@@ -1,0 +1,145 @@
+Chapter 4: Working with Remote Machines
+========================================================
+author: Shawn Goggins and Adam Herman
+date: 06/17/16
+autosize: true
+font-family: 'Helvetica'
+
+Connecting to Remote Machines with SSH
+========================================================
+font-family: 'Helvetica'
+
+- SSH: secure shell
+- Encrypted by passwords, and protecting private files
+- Allows the user to execute commands on the remote host just as you'd execute them locally
+  
+```
+  $ ssh username@login.msi.umn.edu
+    username@login.msi.umn.edu's password:
+    Last login: <date> <time> from <IP-address>
+```
+
+Generate SSH Keys
+=======================================================
+font-family: 'Helvetica'
+- generate a public/private key pair with ssh-keygen
+
+```
+  $ ssh-keygen -t rsa -b 2048
+    Generating public/private rsa key pair.
+  $ Enter file in which to save the key (~/.ssh/id_rsa): 
+  $ Enter passphrase (empty for no passphrase): 
+  $ Enter same passphrase again: 
+    Your identification has been saved in ~/.ssh/id_rsa.
+    Your public key has been saved in ~/.ssh/id_rsa.pub.
+    The key fingerprint is:
+    <fingerprint>
+    The key's randomart image is:
+```
+![Alt][1]
+[1]: http://technonstop.com/images/randomart_image.png
+
+
+Key security
+====================================================
+font-family: 'Helvetica'
+```
+  $ ls -al ~/.ssh
+-rw-------   1 dgrossen  staff  1766 Jun 14 15:55 id_rsa
+-rw-r--r--   1 dgrossen  staff   436 Jun 14 15:55 id_rsa.pub
+-rw-r--r--   1 dgrossen  staff  1616 May 10 10:05 known_hosts
+  $ ssh-keygen -lv -f ~/.ssh/known_hosts
+2048 <fingerprint>
+```
+  ![Alt][2]
+  [2]: http://technonstop.com/images/randomart_image.png
+
+
+MSI
+========================================================
+font-family: 'Helvetica'
+
+- High performance computing system:  
+Provides high performance storange and access to MSI's sofware resouces  
+Includes popular programming languages: Python, R, Matlab, C compiliers  
+
+![Alt][3]
+[3]: https://www.msi.umn.edu/sites/default/files/styles/338x225/public/Mesabi2%20%281%29.jpg?itok=7FpC50RE
+
+- Interactive HPC:  
+Real-time user input facilitating code development, data-exploration, and visualization  
+<b>Without downloading to local machine </b>
+
+
+MSI Hierarchy
+======================================================
+font-family: 'Helvetica'
+![Alt][4]
+[4]: https://www.msi.umn.edu/sites/default/files/multihop_msi.png
+
+
+Local machine to SSH
+====================================
+font-family: 'Helvetica'
+- Follow the SSH key setup protocol through MSI  
+  <https://www.msi.umn.edu/support/faq/how-do-i-setup-ssh-keys> 
+
+- Store your public key information on MSI
+
+```
+  $ scp ~/.ssh/id_rsa.pub username@login.msi.umn.edu:.ssh/temp.pub
+```  
+
+```  
+  $ ssh username@login.msi.umn.edu
+  username@login.msi.umn.edu's password:
+```
+
+- Append your public key to the list of keys permitted for logging in
+- Set strict permissions on this file
+
+```
+  $ cat ~/.ssh/temp.pub >> .ssh/authorized_keys
+  $ chmod 600 .ssh/authorized_keys&&rm.ssh/tmp.pub
+  $ ssh-keygen -l -f /etc/ssh/ssh_host_rsa_key
+2048 <fingerprint>
+
+```
+
+- Login in securely without entering your password each time
+
+Running jobs on SSH
+=============================================================
+font-family: 'Helvetica'
+'Hangup signals' or lack of internet connection will exit your application  
+    
+![Alt][5]
+[5]: https://tse2.mm.bing.net/th?id=OIP.Mebd7cf7d9e44ca261332c7f439584f75o0&pid=15.1&P=0&w=300&h=300
+
+
+Solution 1
+============================================================
+font-family: 'Helvetica'
+<b> nohup </b> : catches and ignores hangup signals
+ 
+ ```{r, engine = 'bash', eval = FALSE}
+  $ cd $HOME
+  $ nano hello.sh #echo Hello World!
+  $ nohup bash hello.sh > output.txt
+[1] 15165
+username@login01 [~] % nohup: ignoring input and redirecting stderr to stdout
+
+[1]+  Done                    nohup bash hello.sh > output.txt
+  $ more output.txt 
+Hello World!
+ ```
+
+Solution 2
+============================================================
+font-family: 'Helvetica'
+<b> Tmux </b> 
+
+
+
+
+
