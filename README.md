@@ -14,7 +14,7 @@ This discussion follows the book "[Bioinformatics Data Skills](http://www.amazon
 
 ## Upcoming discussion:
 
-**Chapter 5:** [Git for Scientits](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/tree/master/Chapter5-Git)
+**Chapter 5:** [Git for Scientists](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/tree/master/Chapter5-Git)
 
 **Date :** June 24, 2016
 
