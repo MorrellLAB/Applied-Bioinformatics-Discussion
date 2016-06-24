@@ -14,15 +14,24 @@ This discussion follows the book "[Bioinformatics Data Skills](http://www.amazon
 
 ## Upcoming discussion:
 
+**Chapter 5:** [Git for Scientists](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/tree/master/Chapter5-Git)
+
+**Date :** June 24, 2016
+
+**Discussion leaders:** Chaochih Liu and Paul Hoffman
+
+
+***
+
+## Past discussions:
+
 **Chapter 4:** [Working with Remote Machines](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/tree/master/Chapter4-Remote_Machines)
 
 **Date:** June 17, 2016
 
 **Discussion leaders:** Shawn Goggins and Adam Herman
 
-***
-
-## Past discussions:
+===
 
 **Chapter 3:** [Remedial Unix Shell](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/tree/master/Chapter3-Unix) 
 
