@@ -14,7 +14,7 @@ This discussion follows the book "[Bioinformatics Data Skills](http://www.amazon
 
 ## Upcoming discussion:
 
-**Chapter 6:** [Bioinformatics Data]()
+**Chapter 6:** [Bioinformatics Data](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/tree/master/Chapter6-Bioinformatics_data)
 
 **Date:** July 8, 2016
 
