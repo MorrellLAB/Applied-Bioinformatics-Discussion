@@ -14,16 +14,24 @@ This discussion follows the book "[Bioinformatics Data Skills](http://www.amazon
 
 ## Upcoming discussion:
 
-**Chapter 5:** [Git for Scientists](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/tree/master/Chapter5-Git)
+**Chapter 6:** [Bioinformatics Data]()
 
-**Date :** June 24, 2016
+**Date:** July 8, 2016
 
-**Discussion leaders:** Chaochih Liu and Paul Hoffman
+**Discussion leader:** Eli Swanson 
 
 
 ***
 
 ## Past discussions:
+
+**Chapter 5:** [Git for Scientists](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/tree/master/Chapter5-Git)
+
+**Date:** June 24, 2016
+
+**Discussion leaders:** Chaochih Liu and Paul Hoffman
+
+===
 
 **Chapter 4:** [Working with Remote Machines](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/tree/master/Chapter4-Remote_Machines)
 
