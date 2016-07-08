@@ -14,16 +14,24 @@ This discussion follows the book "[Bioinformatics Data Skills](http://www.amazon
 
 ## Upcoming discussion:
 
+**Chapter 8:** A Rapid Introduction to the R Language
+
+**Date:** July 15, 2016
+
+**Discussion leader:** Chaochih Liu and Paul J. Hoffman
+
+
+***
+
+## Past discussions:
+
 **Chapter 6:** [Bioinformatics Data](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/tree/master/Chapter6-Bioinformatics_data)
 
 **Date:** July 8, 2016
 
 **Discussion leader:** Eli Swanson 
 
-
-***
-
-## Past discussions:
+====
 
 **Chapter 5:** [Git for Scientists](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/tree/master/Chapter5-Git)
 
