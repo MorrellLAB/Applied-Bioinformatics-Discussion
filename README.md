@@ -18,7 +18,7 @@ This discussion follows the book "[Bioinformatics Data Skills](http://www.amazon
 
 **Date:** July 15, 2016
 
-**Discussion leader:** Chaochih Liu and Paul J. Hoffman
+**Discussion leader:** Chaochih Liu and Paul Hoffman
 
 
 ***
