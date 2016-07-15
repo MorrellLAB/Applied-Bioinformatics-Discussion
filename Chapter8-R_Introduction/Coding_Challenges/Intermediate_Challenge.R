@@ -11,7 +11,7 @@ plotThetas <- function(window.center, thetas, label = 'Thetas', color = 'red'){
 ############################################################
 ##########          Leave this alone              ##########
 ############################################################
-Thetas <- read.table(file = '', header = TRUE, as.is = TRUE)
+Thetas <- read.table(file = 'ANGSD-wrapper_sample.thetas', header = TRUE, as.is = TRUE)
 Thetas$Watterson <- Thetas$tW / Thetas$nSites
 Thetas$Pairwise <- Thetas$tP / Thetas$nSites
 

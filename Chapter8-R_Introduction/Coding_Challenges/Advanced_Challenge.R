@@ -2,6 +2,8 @@
 
 #   Finish writing this script to accept a Thetas file
 #   from the command line and write 3 plots to a PDF
+#   This script must accept both example Thetas files
+#   without any modifications to the program
 #   Your 3 plots are Watterson's Theta, Pairwise
 #   Theta, and Tajima's D
 #   NOTHING can be written outside of the three functions
@@ -33,6 +35,7 @@ plotThetas <- function(window.center, thetas, label = 'Theta', color = 'red'){
 #   A driver function
 main <- function(){
     #   Get the name of the Thetas file
+    #   Get an output file name
     #   Read the Thetas file into a data frame
     #   Start the PDF printer
     #   Make the page 6x6
