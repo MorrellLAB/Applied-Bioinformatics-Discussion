@@ -1,7 +1,9 @@
 ---
-output: pdf_document
+output: html_document
 ---
 # Beginner Challenge
+
+***
 
 ## Task
 
@@ -12,6 +14,8 @@ output: pdf_document
 
 All commands needed have been provided below. Open up RStudio and start typing commands into Source. For help on any command, type `?` followed by command name. For example, to find help on `read.delim()` type `?read.delim`.
 
+***
+
 ### Commands to set working directory:
 
 Command: `setwd()`
@@ -20,6 +24,8 @@ Arguments:
 
 `setwd(dir = "path to directory")`
 
+***
+
 ### Commands and arguments to read in data:
 
 Command: `read.delim()`
@@ -27,15 +33,22 @@ Command: `read.delim()`
 Arguments: 
 - `file = "path to file"`
 - `header = TRUE` to include file headers, `header = FALSE` to ignore file headers
-- \`sep = ""\` for separator as white space, \`sep = "\t"\` for separator as tabs, sep = "\n"
+- `sep = ""` for separator as white space, `sep = "\t"` for separator as tabs, sep = "\n"
+
+***
 
 ### Commands and arguments to plot thetas with lowess lines
 
-To plot Watterson's Thetas, use `WinCenter` column for x-axis and `Watterson` column for y-axis.
+**First, calculate Watterson's Thetas and Pairwise Thetas.**
 
-To plot Pairwise Theta, use `WinCenter` column for x-axis and `Pairwise` column for y-axis.
+- Watterson's Thetas can be calculated by dividing tW by nSites
+- Pairwise Thetas can be calculated by dividing tP by nSites
 
-To plot Tajima's D, use `WinCenter` column for x-axis and `Tajima` column for y-axis.
+To **plot Watterson's Thetas**, use `WinCenter` column for x-axis and `Watterson` column for y-axis.
+
+To **plot Pairwise Theta**, use `WinCenter` column for x-axis and `Pairwise` column for y-axis.
+
+To **plot Tajima's D**, use `WinCenter` column for x-axis and `Tajima` column for y-axis.
 
 Command: `plot()`
 
