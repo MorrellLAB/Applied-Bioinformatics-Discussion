@@ -1,3 +1,6 @@
+---
+output: pdf_document
+---
 # Beginner Challenge
 
 ## Task
@@ -24,7 +27,7 @@ Command: `read.delim()`
 Arguments: 
 - `file = "path to file"`
 - `header = TRUE` to include file headers, `header = FALSE` to ignore file headers
-- `sep = ""` for separator as white space, `sep = "\t"` for separator as tabs, sep = "\n"
+- \`sep = ""\` for separator as white space, \`sep = "\t"\` for separator as tabs, sep = "\n"
 
 ### Commands and arguments to plot thetas with lowess lines
 
