@@ -14,7 +14,7 @@ This discussion follows the book "[Bioinformatics Data Skills](http://www.amazon
 
 ## Upcoming discussion:
 
-**Chapter 8:** A Rapid Introduction to the R Language
+**Chapter 8:** [A Rapid Introduction to the R Language](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/tree/master/Chapter8-R_Introduction)
 
 **Date:** July 15, 2016
 
