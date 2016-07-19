@@ -14,16 +14,23 @@ This discussion follows the book "[Bioinformatics Data Skills](http://www.amazon
 
 ## Upcoming discussion:
 
+**Chapter 7:** Unix Data Tools
+
+**Date:** July 22, 2016
+
+**Discussion leader:** Corey Carter and Felipe Reyes
+
+***
+
+## Past discussions:
+
 **Chapter 8:** [A Rapid Introduction to the R Language](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/tree/master/Chapter8-R_Introduction)
 
 **Date:** July 15, 2016
 
 **Discussion leader:** Chaochih Liu and Paul Hoffman
 
-
-***
-
-## Past discussions:
+===
 
 **Chapter 6:** [Bioinformatics Data](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/tree/master/Chapter6-Bioinformatics_data)
 
