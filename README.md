@@ -14,7 +14,7 @@ This discussion follows the book "[Bioinformatics Data Skills](http://www.amazon
 
 ## Upcoming discussion:
 
-**Chapter 9:** [Working with Range Data]()
+**Chapter 9:** [Working with Range Data](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/tree/master/Chapter9-Range_data)
 
 **Date:** July 29, 2016
 
