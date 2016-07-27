@@ -14,15 +14,23 @@ This discussion follows the book "[Bioinformatics Data Skills](http://www.amazon
 
 ## Upcoming discussion:
 
+**Chapter 9:** [Working with Range Data]()
+
+**Date:** July 29, 2016
+
+**Discussion leader:** Richard Trantow
+
+***
+
+## Past discussions:
+
 **Chapter 7:** [Unix Data Tools](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/tree/master/Chapter7-Unix_data_tools)
 
 **Date:** July 22, 2016
 
 **Discussion leaders:** Corey Carter and Felipe Reyes
 
-***
-
-## Past discussions:
+===
 
 **Chapter 8:** [A Rapid Introduction to the R Language](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/tree/master/Chapter8-R_Introduction)
 
