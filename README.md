@@ -14,15 +14,24 @@ This discussion follows the book "[Bioinformatics Data Skills](http://www.amazon
 
 ## Upcoming discussion:
 
+**Chapter 11:** [Working with Alignment Data ](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/tree/master/Chapter9-Range_data)
+
+**Date:** August 12, 2016
+
+**Discussion leader:** Li Lei
+
+***
+
+## Past discussions:
+
 **Chapter 10:** [Working with Sequence Data ](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/tree/master/Chapter9-Range_data)
 
 **Date:** August 5, 2016
 
 **Discussion leader:** Corey Carter 
 
-***
+===
 
-## Past discussions:
 **Chapter 9:** [Working with Range Data](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/tree/master/Chapter9-Range_data)
 
 **Date:** July 29, 2016
