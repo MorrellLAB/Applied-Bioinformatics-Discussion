@@ -24,7 +24,7 @@ This discussion follows the book "[Bioinformatics Data Skills](http://www.amazon
 
 ## Past discussions:
 
-**Chapter 10:** [Working with Sequence Data ](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/tree/master/Chapter10-Sequence_data)
+**Chapter 10:** [Working with Sequence Data ](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/blob/master/Chapter10-Sequence_data/chap_10.pptx)
 
 **Date:** August 5, 2016
 
