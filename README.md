@@ -14,15 +14,23 @@ This discussion follows the book "[Bioinformatics Data Skills](http://www.amazon
 
 ## Upcoming discussion:
 
+**Chapter 12:** [Bioinformatics Shell Scripting, Writing Pipelines, and Parallelizing Tasks](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/tree/master/Chapter11-Alignment_data)
+
+**Date:** August 26, 2016
+
+**Discussion leader:** Paul Hoffman
+
+***
+
+## Past discussions:
+
 **Chapter 11:** [Working with Alignment Data ](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/tree/master/Chapter11-Alignment_data)
 
 **Date:** August 12, 2016
 
 **Discussion leader:** Li Lei
 
-***
-
-## Past discussions:
+===
 
 **Chapter 10:** [Working with Sequence Data ](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/blob/master/Chapter10-Sequence_data/chap_10.pptx)
 
