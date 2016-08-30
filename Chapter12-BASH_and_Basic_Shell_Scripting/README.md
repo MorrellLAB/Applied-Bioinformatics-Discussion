@@ -2,10 +2,6 @@
 <!-- color: #F1F1F2-->
 <!-- font: metronova -->
 
-# Follow Along With the Presentation
-
-***
-
 # BASH and Basic Shell Scripting
 ---
 
