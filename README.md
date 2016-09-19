@@ -1,18 +1,20 @@
 # Applied-Bioinformatics-Discussion
 
-This discussion follows the book "[Bioinformatics Data Skills](http://www.amazon.com/Bioinformatics-Data-Skills-Reproducible-Research/dp/1449367372)" by Vince Buffalo, but could also integrate discussing some useful tools, like GATK, samtools, Picard, etc. If you are interested in improving your applied bioinformatics skills, please join us and sign up to our mailing list at our [Google group](https://groups.google.com/forum/#!forum/applied_bioinformatics_discussion_umn)
+## NOTE: This group has been merged with [Does[0]Compute?](http://morrelllab.github.io/compute/) For full schedule, please see their [GitHub page](https://github.com/MorrellLAB/DoesNaughtCompute)
+
+---
+
+This discussion followed the book "[Bioinformatics Data Skills](http://www.amazon.com/Bioinformatics-Data-Skills-Reproducible-Research/dp/1449367372)" by Vince Buffalo. If you are interested in improving your applied bioinformatics skills, please join us and sign up to our mailing list at our [Google group](https://groups.google.com/forum/#!forum/applied_bioinformatics_discussion_umn)
 
 ***
 
 ## Meeting Schedule:
 
-**When:** 3:00-4:00PM, every Friday
+**When:** Thursdays from 3:00-4:00PM
 
 **Where:** Borlaug 213
 
-***
-
-## Upcoming discussion:
+## Past discussions:
 
 **Chapter 12:** [Bioinformatics Shell Scripting, Writing Pipelines, and Parallelizing Tasks](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/tree/master/Chapter11-Alignment_data)
 
@@ -20,9 +22,7 @@ This discussion follows the book "[Bioinformatics Data Skills](http://www.amazon
 
 **Discussion leader:** Paul Hoffman
 
-***
-
-## Past discussions:
+===
 
 **Chapter 11:** [Working with Alignment Data ](https://github.com/MorrellLAB/Applied-Bioinformatics-Discussion/tree/master/Chapter11-Alignment_data)
 
